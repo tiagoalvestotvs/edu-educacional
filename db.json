@@ -62,7 +62,23 @@
   		"NumeroAulasPorSemana": 1
   	}
   ],
-  "profile": {
-    "name": "typicode"
+  "padraoDeRetorno": {
+  	"DetalhamentoDaAlocacaoSugerida": null,
+  	"ListaAlocacaoDeTurmasDisciplinas": [
+  		{
+  			"CodColigada": null,
+  			"CodPoTurma": null,
+  			"CodHor": null
+  		}
+  	],
+  	"ListaAlocacaoProfessores": [
+  		{
+  			"CodColigada": null,
+  			"IdPoHorarioProfessor": null,
+  			"CodPoTurma": null,
+  			"CodProf": null,
+  			"CodHor": null
+  		}
+  	]
   }
 }
