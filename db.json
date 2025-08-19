@@ -179,32 +179,32 @@
   "listaDeDisciplinas": [
   	{
   		"CodColigada": 1,
-  		"CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647",
-  		"CodTurma": "SI-2023/2-0032",
+  		"CodPoTurma": "1",
+  		"CodTurma": "A",
   		"CodDisc": "S001-1",
   		"CodPeriodo": 1,
   		"NumeroAulasPorSemana": 5
   	},
   	{
   		"CodColigada": 1,
-  		"CodPoTurma": "27474361-0715-4E11-9F67-F6F017862305",
-  		"CodTurma": "SI-2023/2-0032",
+  		"CodPoTurma": "2",
+  		"CodTurma": "A",
   		"CodDisc": "S002-1",
   		"CodPeriodo": 1,
   		"NumeroAulasPorSemana": 5
   	},	
   	{
   		"CodColigada": 1,
-  		"CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304",
-  		"CodTurma": "SI-2023/2-0033",
+  		"CodPoTurma": "3",
+  		"CodTurma": "B",
   		"CodDisc": "S003-1",
   		"CodPeriodo": 1,
   		"NumeroAulasPorSemana": 5
   	},
   	{
   		"CodColigada": 1,
-  		"CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293",
-  		"CodTurma": "SI-2023/2-0033",
+  		"CodPoTurma": "4",
+  		"CodTurma": "B",
   		"CodDisc": "S004-1",
   		"CodPeriodo": 1,
   		"NumeroAulasPorSemana": 5
