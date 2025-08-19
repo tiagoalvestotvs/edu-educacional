@@ -70,15 +70,6 @@
   			"CodPoTurma": null,
   			"CodHor": null
   		}
-  	],
-  	"ListaAlocacaoProfessores": [
-  		{
-  			"CodColigada": null,
-  			"IdPoHorarioProfessor": null,
-  			"CodPoTurma": null,
-  			"CodProf": null,
-  			"CodHor": null
-  		}
   	]
   }
 }
