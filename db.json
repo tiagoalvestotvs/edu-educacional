@@ -187,8 +187,16 @@
   	},
   	{
   		"CodColigada": 1,
-  		"CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304",
+  		"CodPoTurma": "27474361-0715-4E11-9F67-F6F017862305",
   		"CodTurma": "SI-2023/2-0032",
+  		"CodDisc": "S002-1",
+  		"CodPeriodo": 1,
+  		"NumeroAulasPorSemana": 5
+  	},	
+  	{
+  		"CodColigada": 1,
+  		"CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304",
+  		"CodTurma": "SI-2023/2-0033",
   		"CodDisc": "S003-1",
   		"CodPeriodo": 1,
   		"NumeroAulasPorSemana": 5
@@ -196,10 +204,10 @@
   	{
   		"CodColigada": 1,
   		"CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293",
-  		"CodTurma": "SI-2023/2-0032",
-  		"CodDisc": "S006-1",
+  		"CodTurma": "SI-2023/2-0033",
+  		"CodDisc": "S004-1",
   		"CodPeriodo": 1,
-  		"NumeroAulasPorSemana": 1
+  		"NumeroAulasPorSemana": 5
   	}
   ],
   "padraoDeRetorno": {
