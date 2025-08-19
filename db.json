@@ -202,14 +202,34 @@
   		"NumeroAulasPorSemana": 5
   	}
   ],
-  "padraoDeRetorno": {
-  	"DetalhamentoDaAlocacaoSugerida": null,
-  	"ListaAlocacaoDeTurmasDisciplinas": [
-  		{
-  			"CodColigada": null,
-  			"CodPoTurma": null,
-  			"CodHor": null
-  		}
-  	]
-  }
+  "listaDeProfessores":[
+	{
+		"CodColigada": 1,
+		"CodProf": "00041"
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "PS-0001"
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "Prof001"
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00040"
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00044"
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00045"
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00042"
+	}
+	]
 }
