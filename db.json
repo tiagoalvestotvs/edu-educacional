@@ -3,175 +3,175 @@
 	{
 		"CodColigada": 1,
 		"CodHor": 2101,
-		"DiaSemana": 2,
+		"DiaSemana": "segunda",
 		"HoraInicial": "07:00",
 		"HoraFinal": "07:50"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 2102,
-		"DiaSemana": 2,
+		"DiaSemana": "segunda",
 		"HoraInicial": "07:50",
 		"HoraFinal": "08:40"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 2103,
-		"DiaSemana": 2,
+		"DiaSemana": "segunda",
 		"HoraInicial": "08:40",
 		"HoraFinal": "09:30"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 2104,
-		"DiaSemana": 2,
+		"DiaSemana": "segunda",
 		"HoraInicial": "09:50",
 		"HoraFinal": "10:40"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 2105,
-		"DiaSemana": 2,
+		"DiaSemana": "segunda",
 		"HoraInicial": "10:40",
 		"HoraFinal": "11:30"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 3101,
-		"DiaSemana": 3,
+		"DiaSemana": "terça",
 		"HoraInicial": "07:00",
 		"HoraFinal": "07:50"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 3102,
-		"DiaSemana": 3,
+		"DiaSemana": "terça",
 		"HoraInicial": "07:50",
 		"HoraFinal": "08:40"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 3103,
-		"DiaSemana": 3,
+		"DiaSemana": "terça",
 		"HoraInicial": "08:40",
 		"HoraFinal": "09:30"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 3104,
-		"DiaSemana": 3,
+		"DiaSemana": "terça",
 		"HoraInicial": "09:50",
 		"HoraFinal": "10:40"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 3105,
-		"DiaSemana": 3,
+		"DiaSemana": "terça",
 		"HoraInicial": "10:40",
 		"HoraFinal": "11:30"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 4101,
-		"DiaSemana": 4,
+		"DiaSemana": "quarta",
 		"HoraInicial": "07:00",
 		"HoraFinal": "07:50"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 4102,
-		"DiaSemana": 4,
+		"DiaSemana": "quarta",
 		"HoraInicial": "07:50",
 		"HoraFinal": "08:40"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 4103,
-		"DiaSemana": 4,
+		"DiaSemana": "quarta",
 		"HoraInicial": "08:40",
 		"HoraFinal": "09:30"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 4104,
-		"DiaSemana": 4,
+		"DiaSemana": "quarta",
 		"HoraInicial": "09:50",
 		"HoraFinal": "10:40"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 4105,
-		"DiaSemana": 4,
+		"DiaSemana": "quarta",
 		"HoraInicial": "10:40",
 		"HoraFinal": "11:30"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 5101,
-		"DiaSemana": 5,
+		"DiaSemana": "quinta",
 		"HoraInicial": "07:00",
 		"HoraFinal": "07:50"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 5102,
-		"DiaSemana": 5,
+		"DiaSemana": "quinta",
 		"HoraInicial": "07:50",
 		"HoraFinal": "08:40"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 5103,
-		"DiaSemana": 5,
+		"DiaSemana": "quinta",
 		"HoraInicial": "08:40",
 		"HoraFinal": "09:30"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 5104,
-		"DiaSemana": 5,
+		"DiaSemana": "quinta",
 		"HoraInicial": "09:50",
 		"HoraFinal": "10:40"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 5105,
-		"DiaSemana": 5,
+		"DiaSemana": "quinta",
 		"HoraInicial": "10:40",
 		"HoraFinal": "11:30"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 6101,
-		"DiaSemana": 6,
+		"DiaSemana": "sexta",
 		"HoraInicial": "07:00",
 		"HoraFinal": "07:50"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 6102,
-		"DiaSemana": 6,
+		"DiaSemana": "sexta",
 		"HoraInicial": "07:50",
 		"HoraFinal": "08:40"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 6103,
-		"DiaSemana": 6,
+		"DiaSemana": "sexta",
 		"HoraInicial": "08:40",
 		"HoraFinal": "09:30"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 6104,
-		"DiaSemana": 6,
+		"DiaSemana": "sexta",
 		"HoraInicial": "09:50",
 		"HoraFinal": "10:40"
 	},
 	{
 		"CodColigada": 1,
 		"CodHor": 6105,
-		"DiaSemana": 6,
+		"DiaSemana": "sexta",
 		"HoraInicial": "10:40",
 		"HoraFinal": "11:30"
 	}
@@ -208,7 +208,7 @@
 		"CodProf": "00041",
 		"listaDeDisponibilidades": [
 			{
-				"DiaSemana": 2,
+				"DiaSemana": "segunda",
 				"HoraInicial": "07:00",
 				"HoraFinal": "11:30"				
 			}
