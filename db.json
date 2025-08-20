@@ -199,8 +199,32 @@
   		"CodTurma": "SI-2023/2-0032",
   		"CodDisc": "S006-1",
   		"CodPeriodo": 1,
-  		"NumeroAulasPorSemana": 5
-  	}
+  		"NumeroAulasPorSemana": 1
+  	},
+	{
+		"CodColigada": 1,
+		"CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982",
+		"CodTurma": "SI-2023/2-0032",
+		"CodDisc": "S002-1",
+		"CodPeriodo": 1,
+		"NumeroAulasPorSemana": 3
+	},
+	{
+		"CodColigada": 1,
+		"CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8",
+		"CodTurma": "SI-2023/2-0032",
+		"CodDisc": "S005-1",
+		"CodPeriodo": 1,
+		"NumeroAulasPorSemana": 4
+	},
+	{
+		"CodColigada": 1,
+		"CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB",
+		"CodTurma": "SI-2023/2-0032",
+		"CodDisc": "S004-1",
+		"CodPeriodo": 1,
+		"NumeroAulasPorSemana": 1
+	}		
   ],
   "listaDeProfessores":[
 	{
@@ -217,7 +241,13 @@
 	{
 		"CodColigada": 1,
 		"CodProf": "PS-0001",
-		"listaDeDisponibilidades": []		
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "terça",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}
+		]		
 	},
 	{
 		"CodColigada": 1,
