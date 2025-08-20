@@ -205,31 +205,56 @@
   "listaDeProfessores":[
 	{
 		"CodColigada": 1,
-		"CodProf": "00041"
+		"CodProf": "00041",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": 2,
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}
+		]
 	},
 	{
 		"CodColigada": 1,
-		"CodProf": "PS-0001"
+		"CodProf": "PS-0001",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": 2,
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}
+		]		
 	},
 	{
 		"CodColigada": 1,
-		"CodProf": "Prof001"
+		"CodProf": "Prof001",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": 3,
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}
+		]		
 	},
 	{
 		"CodColigada": 1,
-		"CodProf": "00040"
+		"CodProf": "00040",
+		"listaDeDisponibilidades": []		
 	},
 	{
 		"CodColigada": 1,
-		"CodProf": "00044"
+		"CodProf": "00044",
+		"listaDeDisponibilidades": []		
 	},
 	{
 		"CodColigada": 1,
-		"CodProf": "00045"
+		"CodProf": "00045",
+		"listaDeDisponibilidades": []		
 	},
 	{
 		"CodColigada": 1,
-		"CodProf": "00042"
+		"CodProf": "00042",
+		"listaDeDisponibilidades": []		
 	}
 	]
 }
