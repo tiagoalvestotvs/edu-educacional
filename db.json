@@ -118,23 +118,6 @@
       "comoEstaHoje": "hoje o sistema não atende aos artigos 15 e 16 da resolução nº7 de 18 de dezembro de 2018 que Estabelece as Diretrizes para a Extensão na Educação Superior Brasileira.",
       "oQuePodeMudar": "Para atender aos artigos supracitados da resolução, mais especificamente o parágrafo único do artigo 15, o qual diz que 'as atividades de extensão devem ser sistematizadas e acompanhadas, com o adequado assentamento, além de registradas, fomentadas e avaliadas por instâncias administrativas institucionais (...)' , precisamos que as atividades que venham a ser oferecidas pelo GLA RM para esse papel específico 'Atividades de Extensão' possam nos proporcionar as seguintes funcionalidades:\n\n\nCadastro da Atividade (com descrição, carga horária, disciplina vinculada, professores associados, alunos participantes, instituições envolvidas);\nGerência da Atividade (com lançamento de frequência, lançamento de assentamentos (conteúdo) e avaliação final);\nEssas atividades devem ser devidamente registradas na Análise Curricular do aluno;\n\nHoje o cadastro das atividades curriculares do aluno atende em parte a essa necessidade, porém para atender ao que se pede precisaríamos que os três pontos acima fossem implementados.\n \n\nQuanto às atividades de extensão cursadas pelos alunos, conforme entendimento do Art. 4º da resolução que trata as atividades de extensão como um componente curricular que deve '(...) compor, no mínimo, 10% (dez por cento) do total da carga horária curricular estudantil dos cursos de graduação, as quais deverão fazer parte da matriz curricular dos cursos', fosse distinta da informação reservada às atividades curriculares já presentes na Análise Curricular de cada aluno, com um campo específico para esse fim. Conforme sugestão abaixo:\n \nHoje:\n\n \nSugestão:",
       "valorDaEntrega": "Com essa entrega poderíamos de fato executar o que é exigido nos artigos 15 e 16 da resolução nº7.\n\n \n \nAtenção não mude os dados abaixo"
-    },
-    {
-      "id": 1500001103821,
-      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
-      "Detalhe": "GLOBAIS RM - CRIAR FILTRO TELA PERMISSÕES DE ACESSO (não tem no MENU da CENTRAL), então abri aqui!",
-      "Votos Internos": 0,
-      "Votos Externos ": 0,
-      "Votos totais": 0,
-      "Votos Negativos": 0,
-      "Quantidade de Comentarios": 3,
-      "Status": "Respondida",
-      "Participativo": "Não",
-      "Data criação": "2021-05-25T17:09:09.000Z25/05/2021",
-      "Data alteração": "2021-06-10T20:48:37.000Z10/06/2021",
-      "comoEstaHoje": "Sem filtro, tenho aproximadamente 25.000 usuários na tela (degrada a performance)...",
-      "oQuePodeMudar": "Criar um filtro para pegar por perfis ativos, usuários ativos, etc.. (limitando a visão e organizando melhor os dados na tela).",
-      "valorDaEntrega": "Melhoria na performance do sistema/tela, não existem problemas, apenas benefícios."
     }
 ]
 }
