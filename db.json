@@ -17,7 +17,7 @@
       "oQuePodeMudar": "Os pais vão ter autonomia de cadastrar/alterar os dados.",
       "valorDaEntrega": "Rapidez e agilidade no processo."
     },
-{
+    {
       "id": 360049289514,
       "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
       "Detalhe": "Comprovante inscrição atividade ofertada",
@@ -50,6 +50,23 @@
       "comoEstaHoje": "O aluno é matriculado em todas as disciplinas, independente se estiver classificada como eletiva.",
       "oQuePodeMudar": "Atualmente para o processo de Rematrícula e o de Enturmação a aplicação não dá possibilidade de realizarmos a opção da disciplina. Todos os alunos são automaticamente matriculados em todas as disciplinas da turma.Como a opção ocorre após o início do período letivo o aluno tem sido matriculado em todas as opções.Entretanto entendemos que um dos processos poderia nos permitir não escolher a eletivas durante a rematrícula ou enturmação para que a secretaria em momento oportuno o fizesse.",
       "valorDaEntrega": "Retrabalho manual de ficar excluindo disciplina aluno por aluno."
-    }	
+    },
+    {
+      "id": 360051274314,
+      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
+      "Detalhe": "Assinatura eletrônica tokenizada de todos os contratos de serviços e documentos da instituição",
+      "Votos Internos": 0,
+      "Votos Externos ": 5,
+      "Votos totais": 5,
+      "Votos Negativos": 0,
+      "Quantidade de Comentarios": 3,
+      "Status": "Concluída",
+      "Participativo": "Não",
+      "Data criação": "2020-11-11T21:49:00.000Z11/11/2020",
+      "Data alteração": "2025-05-26T21:53:04.000Z26/05/2025",
+      "comoEstaHoje": "Atualmente é possível assinar eletronicamente com token apenas a matrícula online.",
+      "oQuePodeMudar": "Possibilidade de assinatura eletrônica tokenizada de outros documentos e/ou serviços oferecidos pela instituição.",
+      "valorDaEntrega": "A instituição possui diversos outros documentos que precisam de assinatura, sendo eles contratos de serviços extras oferecidos ou mesmo formulários como alteração de responsável financeiro ou ficha médica, no qual a assinatura também é fundamental.Tendo todos os documentos disponíveis para assinatura online, digitalizaria ainda mais a Secretaria Acadêmica e otimizaria bastante o trabalho, além de ser um facilitador para os alunos e responsáveis que terão a parte burocrática simplificada e sequer precisariam sair de casa."
+    }
 ]
 }
