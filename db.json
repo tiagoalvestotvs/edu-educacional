@@ -135,23 +135,6 @@
       "comoEstaHoje": "Sem filtro, tenho aproximadamente 25.000 usuários na tela (degrada a performance)...",
       "oQuePodeMudar": "Criar um filtro para pegar por perfis ativos, usuários ativos, etc.. (limitando a visão e organizando melhor os dados na tela).",
       "valorDaEntrega": "Melhoria na performance do sistema/tela, não existem problemas, apenas benefícios."
-    },
-    {
-      "id": 4404292597783,
-      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
-      "Detalhe": "GLA RH > Linha RM > Folha Educacional > Liberação Templates - Engine Cópia Entre Coligadas",
-      "Votos Internos": 0,
-      "Votos Externos ": 0,
-      "Votos totais": 0,
-      "Votos Negativos": 0,
-      "Quantidade de Comentarios": 1,
-      "Status": "Concluída",
-      "Participativo": "Não",
-      "Data criação": "2021-07-15T00:24:07.000Z15/07/2021",
-      "Data alteração": "2025-05-26T22:15:22.000Z26/05/2025",
-      "comoEstaHoje": null,
-      "oQuePodeMudar": "Liberação do template da tabela de Folha Educacional para que todos possam utilizar o NOVO recurso de Engine de Cópia de Coligadas. Solicito a liberação da tabela mostrada abaixo pois assim, acredito que facilitaria a análise e liberação do template:- Folha Educacional | Cadastros | Período Letivo- Folha Educacional | Cadastros | Turmas- Folha Educacional | Cadastros | Disciplinas- Folha Educacional | Cadastros | Função de Professor- Folha de Pagamento | Configurações | Parametrizador | Integrações | Gestão Educacional",
-      "valorDaEntrega": "Recurso MARAVILHOSO e FUNCIONAL que TODOS os módulos do ERP-RM deveriam aderir em suas respectivas tabelas.Os clientes que trabalham com múltiplas coligadas, como é o caso por exemplo, dos segmentos de construção civil e escritórios de contabilidade poderiam se beneficiar com os ganhos de padronização, performance, segurança processual e agilidade que esta nossa funcionalidade possibilita através da automatização do processo de cópia de dados entre coligadas quando houver alteração de parâmetros ou com a criação de novas coligadas.OBS: Demanda aberta conforme alinhamento interno (Dev/PO/CO, etc)"
     }
 ]
 }
