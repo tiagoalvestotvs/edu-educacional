@@ -16,6 +16,40 @@
       "comoEstaHoje": "Atualmente os pais enviam por e-mails e os dados são alterados/cadastrados manualmente no sistema.",
       "oQuePodeMudar": "Os pais vão ter autonomia de cadastrar/alterar os dados.",
       "valorDaEntrega": "Rapidez e agilidade no processo."
-    }
+    },
+{
+      "id": 360049289514,
+      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
+      "Detalhe": "Comprovante inscrição atividade ofertada",
+      "Votos Internos": 0,
+      "Votos Externos ": 0,
+      "Votos totais": 0,
+      "Votos Negativos": 0,
+      "Quantidade de Comentarios": 1,
+      "Status": "Concluída",
+      "Participativo": "Não",
+      "Data criação": "2020-08-19T16:28:45.000Z19/08/2020",
+      "Data alteração": "2021-02-25T17:02:46.000Z25/02/2021",
+      "comoEstaHoje": "Hoje não tem a funcionalidade.",
+      "oQuePodeMudar": "Possibilitar que o aluno ao se inscrever em uma atividade ofertada possa gerar um comprovante desta inscrição, podendo ser esse comprovante um relatório do RM Reports.",
+      "valorDaEntrega": "Maior confiança do aluno que a sua inscrição foi realizada com sucesso."
+    },
+    {
+      "id": 360049383134,
+      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
+      "Detalhe": "Matrícula em disciplinas eletivas",
+      "Votos Internos": 0,
+      "Votos Externos ": 2,
+      "Votos totais": 2,
+      "Votos Negativos": 0,
+      "Quantidade de Comentarios": 1,
+      "Status": "Não planejada",
+      "Participativo": "Não",
+      "Data criação": "2020-08-26T14:50:09.000Z26/08/2020",
+      "Data alteração": "2024-03-04T14:16:05.000Z04/03/2024",
+      "comoEstaHoje": "O aluno é matriculado em todas as disciplinas, independente se estiver classificada como eletiva.",
+      "oQuePodeMudar": "Atualmente para o processo de Rematrícula e o de Enturmação a aplicação não dá possibilidade de realizarmos a opção da disciplina. Todos os alunos são automaticamente matriculados em todas as disciplinas da turma.Como a opção ocorre após o início do período letivo o aluno tem sido matriculado em todas as opções.Entretanto entendemos que um dos processos poderia nos permitir não escolher a eletivas durante a rematrícula ou enturmação para que a secretaria em momento oportuno o fizesse.",
+      "valorDaEntrega": "Retrabalho manual de ficar excluindo disciplina aluno por aluno."
+    }	
 ]
 }
