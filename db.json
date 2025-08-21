@@ -1,5 +1,5 @@
 {
-  "dados": [
+	"dados": [
     {
       "id": 360048527194,
       "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
@@ -67,6 +67,91 @@
       "comoEstaHoje": "Atualmente é possível assinar eletronicamente com token apenas a matrícula online.",
       "oQuePodeMudar": "Possibilidade de assinatura eletrônica tokenizada de outros documentos e/ou serviços oferecidos pela instituição.",
       "valorDaEntrega": "A instituição possui diversos outros documentos que precisam de assinatura, sendo eles contratos de serviços extras oferecidos ou mesmo formulários como alteração de responsável financeiro ou ficha médica, no qual a assinatura também é fundamental.Tendo todos os documentos disponíveis para assinatura online, digitalizaria ainda mais a Secretaria Acadêmica e otimizaria bastante o trabalho, além de ser um facilitador para os alunos e responsáveis que terão a parte burocrática simplificada e sequer precisariam sair de casa."
+    },
+    {
+      "id": 360051274594,
+      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
+      "Detalhe": "Webservice - retorno de erro de fórmula visual",
+      "Votos Internos": 0,
+      "Votos Externos ": 3,
+      "Votos totais": 3,
+      "Votos Negativos": 0,
+      "Quantidade de Comentarios": 1,
+      "Status": "Concluída",
+      "Participativo": "Não",
+      "Data criação": "2020-11-11T22:38:54.000Z11/11/2020",
+      "Data alteração": "2021-02-25T19:28:06.000Z25/02/2021",
+      "comoEstaHoje": "Utilizando o webservice wsFormulaVisual, no momento em que a fórmula visual apresenta erro, até mesmo pela atividade 'gerar exceção', o retorno pelo webservice é 'Nulo' e não o erro tratado pela exceção, como por exemplo, 'Usuário sem permissão...', 'Processo pendente...'. O erro genérico dificulta a análise do problema, na qual pode até mesmo ser  ocasionados por falha da estrutura da FV.",
+      "oQuePodeMudar": "Retornar exatamente o erro da fórmula visual, exibindo erros de falha de estrutura ou especificar o erro tratado na exceção.",
+      "valorDaEntrega": "Alertas claros para o cliente ou utilizador da ferramenta;\nInteligência na aplicação, obtendo tratamentos específicos nos processos envolvidos; \n \n\n \n \nAtenção não mude os dados abaixo"
+    },
+    {
+      "id": 360051318854,
+      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
+      "Detalhe": "Controle da Frequência para atividades complementares",
+      "Votos Internos": 0,
+      "Votos Externos ": 1,
+      "Votos totais": 1,
+      "Votos Negativos": 0,
+      "Quantidade de Comentarios": 1,
+      "Status": "Concluída",
+      "Participativo": "Não",
+      "Data criação": "2020-11-17T19:13:15.000Z17/11/2020",
+      "Data alteração": "2021-02-25T18:01:02.000Z25/02/2021",
+      "comoEstaHoje": "Hoje o controle é apenas via sistema , flagando um campo que indica que o aluno cursou ou não determinada atividade.",
+      "oQuePodeMudar": "Como o professor já pode ser vinculado a atividade complementar aplicada , ele poderia ter acesso via portal para controlar a frenquencia dos alunos inscritos nas atividades.",
+      "valorDaEntrega": null
+    },
+    {
+      "id": 1500000821962,
+      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
+      "Detalhe": "Curricularização da Extensão - Resolução nº7 de 18 de dezembro de 2018",
+      "Votos Internos": 0,
+      "Votos Externos ": 2,
+      "Votos totais": 2,
+      "Votos Negativos": 0,
+      "Quantidade de Comentarios": 1,
+      "Status": "Concluída",
+      "Participativo": "Não",
+      "Data criação": "2021-04-20T20:34:23.000Z20/04/2021",
+      "Data alteração": "2021-12-15T19:24:15.000Z15/12/2021",
+      "comoEstaHoje": "hoje o sistema não atende aos artigos 15 e 16 da resolução nº7 de 18 de dezembro de 2018 que Estabelece as Diretrizes para a Extensão na Educação Superior Brasileira.",
+      "oQuePodeMudar": "Para atender aos artigos supracitados da resolução, mais especificamente o parágrafo único do artigo 15, o qual diz que 'as atividades de extensão devem ser sistematizadas e acompanhadas, com o adequado assentamento, além de registradas, fomentadas e avaliadas por instâncias administrativas institucionais (...)' , precisamos que as atividades que venham a ser oferecidas pelo GLA RM para esse papel específico 'Atividades de Extensão' possam nos proporcionar as seguintes funcionalidades:\n\n\nCadastro da Atividade (com descrição, carga horária, disciplina vinculada, professores associados, alunos participantes, instituições envolvidas);\nGerência da Atividade (com lançamento de frequência, lançamento de assentamentos (conteúdo) e avaliação final);\nEssas atividades devem ser devidamente registradas na Análise Curricular do aluno;\n\nHoje o cadastro das atividades curriculares do aluno atende em parte a essa necessidade, porém para atender ao que se pede precisaríamos que os três pontos acima fossem implementados.\n \n\nQuanto às atividades de extensão cursadas pelos alunos, conforme entendimento do Art. 4º da resolução que trata as atividades de extensão como um componente curricular que deve '(...) compor, no mínimo, 10% (dez por cento) do total da carga horária curricular estudantil dos cursos de graduação, as quais deverão fazer parte da matriz curricular dos cursos', fosse distinta da informação reservada às atividades curriculares já presentes na Análise Curricular de cada aluno, com um campo específico para esse fim. Conforme sugestão abaixo:\n \nHoje:\n\n \nSugestão:",
+      "valorDaEntrega": "Com essa entrega poderíamos de fato executar o que é exigido nos artigos 15 e 16 da resolução nº7.\n\n \n \nAtenção não mude os dados abaixo"
+    },
+    {
+      "id": 1500001103821,
+      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
+      "Detalhe": "GLOBAIS RM - CRIAR FILTRO TELA PERMISSÕES DE ACESSO (não tem no MENU da CENTRAL), então abri aqui!",
+      "Votos Internos": 0,
+      "Votos Externos ": 0,
+      "Votos totais": 0,
+      "Votos Negativos": 0,
+      "Quantidade de Comentarios": 3,
+      "Status": "Respondida",
+      "Participativo": "Não",
+      "Data criação": "2021-05-25T17:09:09.000Z25/05/2021",
+      "Data alteração": "2021-06-10T20:48:37.000Z10/06/2021",
+      "comoEstaHoje": "Sem filtro, tenho aproximadamente 25.000 usuários na tela (degrada a performance)...",
+      "oQuePodeMudar": "Criar um filtro para pegar por perfis ativos, usuários ativos, etc.. (limitando a visão e organizando melhor os dados na tela).",
+      "valorDaEntrega": "Melhoria na performance do sistema/tela, não existem problemas, apenas benefícios."
+    },
+    {
+      "id": 4404292597783,
+      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
+      "Detalhe": "GLA RH > Linha RM > Folha Educacional > Liberação Templates - Engine Cópia Entre Coligadas",
+      "Votos Internos": 0,
+      "Votos Externos ": 0,
+      "Votos totais": 0,
+      "Votos Negativos": 0,
+      "Quantidade de Comentarios": 1,
+      "Status": "Concluída",
+      "Participativo": "Não",
+      "Data criação": "2021-07-15T00:24:07.000Z15/07/2021",
+      "Data alteração": "2025-05-26T22:15:22.000Z26/05/2025",
+      "comoEstaHoje": null,
+      "oQuePodeMudar": "Liberação do template da tabela de Folha Educacional para que todos possam utilizar o NOVO recurso de Engine de Cópia de Coligadas. Solicito a liberação da tabela mostrada abaixo pois assim, acredito que facilitaria a análise e liberação do template:- Folha Educacional | Cadastros | Período Letivo- Folha Educacional | Cadastros | Turmas- Folha Educacional | Cadastros | Disciplinas- Folha Educacional | Cadastros | Função de Professor- Folha de Pagamento | Configurações | Parametrizador | Integrações | Gestão Educacional",
+      "valorDaEntrega": "Recurso MARAVILHOSO e FUNCIONAL que TODOS os módulos do ERP-RM deveriam aderir em suas respectivas tabelas.Os clientes que trabalham com múltiplas coligadas, como é o caso por exemplo, dos segmentos de construção civil e escritórios de contabilidade poderiam se beneficiar com os ganhos de padronização, performance, segurança processual e agilidade que esta nossa funcionalidade possibilita através da automatização do processo de cópia de dados entre coligadas quando houver alteração de parâmetros ou com a criação de novas coligadas.OBS: Demanda aberta conforme alinhamento interno (Dev/PO/CO, etc)"
     }
 ]
 }
