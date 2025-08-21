@@ -152,6 +152,23 @@
       "comoEstaHoje": null,
       "oQuePodeMudar": "Liberação do template da tabela de Folha Educacional para que todos possam utilizar o NOVO recurso de Engine de Cópia de Coligadas. Solicito a liberação da tabela mostrada abaixo pois assim, acredito que facilitaria a análise e liberação do template:- Folha Educacional | Cadastros | Período Letivo- Folha Educacional | Cadastros | Turmas- Folha Educacional | Cadastros | Disciplinas- Folha Educacional | Cadastros | Função de Professor- Folha de Pagamento | Configurações | Parametrizador | Integrações | Gestão Educacional",
       "valorDaEntrega": "Recurso MARAVILHOSO e FUNCIONAL que TODOS os módulos do ERP-RM deveriam aderir em suas respectivas tabelas.Os clientes que trabalham com múltiplas coligadas, como é o caso por exemplo, dos segmentos de construção civil e escritórios de contabilidade poderiam se beneficiar com os ganhos de padronização, performance, segurança processual e agilidade que esta nossa funcionalidade possibilita através da automatização do processo de cópia de dados entre coligadas quando houver alteração de parâmetros ou com a criação de novas coligadas.OBS: Demanda aberta conforme alinhamento interno (Dev/PO/CO, etc)"
+    },
+    {
+      "id": 4408405277335,
+      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
+      "Detalhe": "Considerar código do INEP do cadastro do curso do MEC vinculado a matriz curricular para geração do CENSO.",
+      "Votos Internos": 4,
+      "Votos Externos ": 2,
+      "Votos totais": 6,
+      "Votos Negativos": 0,
+      "Quantidade de Comentarios": 2,
+      "Status": "Concluída",
+      "Participativo": "Não",
+      "Data criação": "2021-09-13T17:53:27.000Z13/09/2021",
+      "Data alteração": "2025-05-21T21:31:13.000Z21/05/2025",
+      "comoEstaHoje": "O código do INEP considerado para geração do CENSO é inserido dentro do cadastro do curso.",
+      "oQuePodeMudar": "Considerar para geração do CENSO o código do INEP do cadastro do curso do MEC associado a matriz aplicada, já que para o CENSO o código é diferente por localidade.",
+      "valorDaEntrega": "O cliente poderá utilizar a mesma estrutura de curso e matrizes curriculares para atender várias filiais do mesmo nível de ensino.Se utilizarmos o código do INEP no curso do MEC vinculado a matriz aplicada este que deveria ser considerado para geração do arquivo para o CENSO."
     }
 ]
 }
