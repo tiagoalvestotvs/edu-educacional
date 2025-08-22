@@ -290,6 +290,9 @@
 			}			
 		],
 		"listaDeDisciplinasJaLecionadas": [
+			{
+				"CodDisc": "S003-1"
+			}			
 		]					
 	},
 	{
