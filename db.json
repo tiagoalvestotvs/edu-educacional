@@ -1,123 +1,322 @@
 {
-	"dados": [
-    {
-      "id": 360048527194,
-      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
-      "Detalhe": "Ensino Básico - Atualização dos dados pessoais do pai e da mãe dentro do portal do aluno",
-      "Votos Internos": 1,
-      "Votos Externos ": 3,
-      "Votos totais": 4,
-      "Votos Negativos": 0,
-      "Quantidade de Comentarios": 3,
-      "Status": "Não planejada",
-      "Participativo": "Sim",
-      "Data criação": "2020-07-13T17:25:41.000Z13/07/2020",
-      "Data alteração": "2021-02-25T16:27:46.000Z25/02/2021",
-      "comoEstaHoje": "Atualmente os pais enviam por e-mails e os dados são alterados/cadastrados manualmente no sistema.",
-      "oQuePodeMudar": "Os pais vão ter autonomia de cadastrar/alterar os dados.",
-      "valorDaEntrega": "Rapidez e agilidade no processo."
-    },
-    {
-      "id": 360049289514,
-      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
-      "Detalhe": "Comprovante inscrição atividade ofertada",
-      "Votos Internos": 0,
-      "Votos Externos ": 0,
-      "Votos totais": 0,
-      "Votos Negativos": 0,
-      "Quantidade de Comentarios": 1,
-      "Status": "Concluída",
-      "Participativo": "Não",
-      "Data criação": "2020-08-19T16:28:45.000Z19/08/2020",
-      "Data alteração": "2021-02-25T17:02:46.000Z25/02/2021",
-      "comoEstaHoje": "Hoje não tem a funcionalidade.",
-      "oQuePodeMudar": "Possibilitar que o aluno ao se inscrever em uma atividade ofertada possa gerar um comprovante desta inscrição, podendo ser esse comprovante um relatório do RM Reports.",
-      "valorDaEntrega": "Maior confiança do aluno que a sua inscrição foi realizada com sucesso."
-    },
-    {
-      "id": 360049383134,
-      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
-      "Detalhe": "Matrícula em disciplinas eletivas",
-      "Votos Internos": 0,
-      "Votos Externos ": 2,
-      "Votos totais": 2,
-      "Votos Negativos": 0,
-      "Quantidade de Comentarios": 1,
-      "Status": "Não planejada",
-      "Participativo": "Não",
-      "Data criação": "2020-08-26T14:50:09.000Z26/08/2020",
-      "Data alteração": "2024-03-04T14:16:05.000Z04/03/2024",
-      "comoEstaHoje": "O aluno é matriculado em todas as disciplinas, independente se estiver classificada como eletiva.",
-      "oQuePodeMudar": "Atualmente para o processo de Rematrícula e o de Enturmação a aplicação não dá possibilidade de realizarmos a opção da disciplina. Todos os alunos são automaticamente matriculados em todas as disciplinas da turma.Como a opção ocorre após o início do período letivo o aluno tem sido matriculado em todas as opções.Entretanto entendemos que um dos processos poderia nos permitir não escolher a eletivas durante a rematrícula ou enturmação para que a secretaria em momento oportuno o fizesse.",
-      "valorDaEntrega": "Retrabalho manual de ficar excluindo disciplina aluno por aluno."
-    },
-    {
-      "id": 360051274314,
-      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
-      "Detalhe": "Assinatura eletrônica tokenizada de todos os contratos de serviços e documentos da instituição",
-      "Votos Internos": 0,
-      "Votos Externos ": 5,
-      "Votos totais": 5,
-      "Votos Negativos": 0,
-      "Quantidade de Comentarios": 3,
-      "Status": "Concluída",
-      "Participativo": "Não",
-      "Data criação": "2020-11-11T21:49:00.000Z11/11/2020",
-      "Data alteração": "2025-05-26T21:53:04.000Z26/05/2025",
-      "comoEstaHoje": "Atualmente é possível assinar eletronicamente com token apenas a matrícula online.",
-      "oQuePodeMudar": "Possibilidade de assinatura eletrônica tokenizada de outros documentos e/ou serviços oferecidos pela instituição.",
-      "valorDaEntrega": "A instituição possui diversos outros documentos que precisam de assinatura, sendo eles contratos de serviços extras oferecidos ou mesmo formulários como alteração de responsável financeiro ou ficha médica, no qual a assinatura também é fundamental.Tendo todos os documentos disponíveis para assinatura online, digitalizaria ainda mais a Secretaria Acadêmica e otimizaria bastante o trabalho, além de ser um facilitador para os alunos e responsáveis que terão a parte burocrática simplificada e sequer precisariam sair de casa."
-    },
-    {
-      "id": 360051274594,
-      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
-      "Detalhe": "Webservice - retorno de erro de fórmula visual",
-      "Votos Internos": 0,
-      "Votos Externos ": 3,
-      "Votos totais": 3,
-      "Votos Negativos": 0,
-      "Quantidade de Comentarios": 1,
-      "Status": "Concluída",
-      "Participativo": "Não",
-      "Data criação": "2020-11-11T22:38:54.000Z11/11/2020",
-      "Data alteração": "2021-02-25T19:28:06.000Z25/02/2021",
-      "comoEstaHoje": "Utilizando o webservice wsFormulaVisual, no momento em que a fórmula visual apresenta erro, até mesmo pela atividade 'gerar exceção', o retorno pelo webservice é 'Nulo' e não o erro tratado pela exceção, como por exemplo, 'Usuário sem permissão...', 'Processo pendente...'. O erro genérico dificulta a análise do problema, na qual pode até mesmo ser  ocasionados por falha da estrutura da FV.",
-      "oQuePodeMudar": "Retornar exatamente o erro da fórmula visual, exibindo erros de falha de estrutura ou especificar o erro tratado na exceção.",
-      "valorDaEntrega": "Alertas claros para o cliente ou utilizador da ferramenta;\nInteligência na aplicação, obtendo tratamentos específicos nos processos envolvidos; \n \n\n \n \nAtenção não mude os dados abaixo"
-    },
-    {
-      "id": 360051318854,
-      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
-      "Detalhe": "Controle da Frequência para atividades complementares",
-      "Votos Internos": 0,
-      "Votos Externos ": 1,
-      "Votos totais": 1,
-      "Votos Negativos": 0,
-      "Quantidade de Comentarios": 1,
-      "Status": "Concluída",
-      "Participativo": "Não",
-      "Data criação": "2020-11-17T19:13:15.000Z17/11/2020",
-      "Data alteração": "2021-02-25T18:01:02.000Z25/02/2021",
-      "comoEstaHoje": "Hoje o controle é apenas via sistema , flagando um campo que indica que o aluno cursou ou não determinada atividade.",
-      "oQuePodeMudar": "Como o professor já pode ser vinculado a atividade complementar aplicada , ele poderia ter acesso via portal para controlar a frenquencia dos alunos inscritos nas atividades.",
-      "valorDaEntrega": null
-    },
-    {
-      "id": 1500000821962,
-      "Titulo": "GLA Education > Gestão Acadêmica > Atividades Ofertadas",
-      "Detalhe": "Curricularização da Extensão - Resolução nº7 de 18 de dezembro de 2018",
-      "Votos Internos": 0,
-      "Votos Externos ": 2,
-      "Votos totais": 2,
-      "Votos Negativos": 0,
-      "Quantidade de Comentarios": 1,
-      "Status": "Concluída",
-      "Participativo": "Não",
-      "Data criação": "2021-04-20T20:34:23.000Z20/04/2021",
-      "Data alteração": "2021-12-15T19:24:15.000Z15/12/2021",
-      "comoEstaHoje": "hoje o sistema não atende aos artigos 15 e 16 da resolução nº7 de 18 de dezembro de 2018 que Estabelece as Diretrizes para a Extensão na Educação Superior Brasileira.",
-      "oQuePodeMudar": "Para atender aos artigos supracitados da resolução, mais especificamente o parágrafo único do artigo 15, o qual diz que 'as atividades de extensão devem ser sistematizadas e acompanhadas, com o adequado assentamento, além de registradas, fomentadas e avaliadas por instâncias administrativas institucionais (...)' , precisamos que as atividades que venham a ser oferecidas pelo GLA RM para esse papel específico 'Atividades de Extensão' possam nos proporcionar as seguintes funcionalidades:\n\n\nCadastro da Atividade (com descrição, carga horária, disciplina vinculada, professores associados, alunos participantes, instituições envolvidas);\nGerência da Atividade (com lançamento de frequência, lançamento de assentamentos (conteúdo) e avaliação final);\nEssas atividades devem ser devidamente registradas na Análise Curricular do aluno;\n\nHoje o cadastro das atividades curriculares do aluno atende em parte a essa necessidade, porém para atender ao que se pede precisaríamos que os três pontos acima fossem implementados.\n \n\nQuanto às atividades de extensão cursadas pelos alunos, conforme entendimento do Art. 4º da resolução que trata as atividades de extensão como um componente curricular que deve '(...) compor, no mínimo, 10% (dez por cento) do total da carga horária curricular estudantil dos cursos de graduação, as quais deverão fazer parte da matriz curricular dos cursos', fosse distinta da informação reservada às atividades curriculares já presentes na Análise Curricular de cada aluno, com um campo específico para esse fim. Conforme sugestão abaixo:\n \nHoje:\n\n \nSugestão:",
-      "valorDaEntrega": "Com essa entrega poderíamos de fato executar o que é exigido nos artigos 15 e 16 da resolução nº7.\n\n \n \nAtenção não mude os dados abaixo"
-    }
-]
+  "listaDeHorarios": [
+	{
+		"CodColigada": 1,
+		"CodHor": 2101,
+		"DiaSemana": "segunda",
+		"HoraInicial": "07:00",
+		"HoraFinal": "07:50"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 2102,
+		"DiaSemana": "segunda",
+		"HoraInicial": "07:50",
+		"HoraFinal": "08:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 2103,
+		"DiaSemana": "segunda",
+		"HoraInicial": "08:40",
+		"HoraFinal": "09:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 2104,
+		"DiaSemana": "segunda",
+		"HoraInicial": "09:50",
+		"HoraFinal": "10:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 2105,
+		"DiaSemana": "segunda",
+		"HoraInicial": "10:40",
+		"HoraFinal": "11:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 3101,
+		"DiaSemana": "terça",
+		"HoraInicial": "07:00",
+		"HoraFinal": "07:50"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 3102,
+		"DiaSemana": "terça",
+		"HoraInicial": "07:50",
+		"HoraFinal": "08:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 3103,
+		"DiaSemana": "terça",
+		"HoraInicial": "08:40",
+		"HoraFinal": "09:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 3104,
+		"DiaSemana": "terça",
+		"HoraInicial": "09:50",
+		"HoraFinal": "10:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 3105,
+		"DiaSemana": "terça",
+		"HoraInicial": "10:40",
+		"HoraFinal": "11:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 4101,
+		"DiaSemana": "quarta",
+		"HoraInicial": "07:00",
+		"HoraFinal": "07:50"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 4102,
+		"DiaSemana": "quarta",
+		"HoraInicial": "07:50",
+		"HoraFinal": "08:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 4103,
+		"DiaSemana": "quarta",
+		"HoraInicial": "08:40",
+		"HoraFinal": "09:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 4104,
+		"DiaSemana": "quarta",
+		"HoraInicial": "09:50",
+		"HoraFinal": "10:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 4105,
+		"DiaSemana": "quarta",
+		"HoraInicial": "10:40",
+		"HoraFinal": "11:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 5101,
+		"DiaSemana": "quinta",
+		"HoraInicial": "07:00",
+		"HoraFinal": "07:50"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 5102,
+		"DiaSemana": "quinta",
+		"HoraInicial": "07:50",
+		"HoraFinal": "08:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 5103,
+		"DiaSemana": "quinta",
+		"HoraInicial": "08:40",
+		"HoraFinal": "09:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 5104,
+		"DiaSemana": "quinta",
+		"HoraInicial": "09:50",
+		"HoraFinal": "10:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 5105,
+		"DiaSemana": "quinta",
+		"HoraInicial": "10:40",
+		"HoraFinal": "11:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 6101,
+		"DiaSemana": "sexta",
+		"HoraInicial": "07:00",
+		"HoraFinal": "07:50"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 6102,
+		"DiaSemana": "sexta",
+		"HoraInicial": "07:50",
+		"HoraFinal": "08:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 6103,
+		"DiaSemana": "sexta",
+		"HoraInicial": "08:40",
+		"HoraFinal": "09:30"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 6104,
+		"DiaSemana": "sexta",
+		"HoraInicial": "09:50",
+		"HoraFinal": "10:40"
+	},
+	{
+		"CodColigada": 1,
+		"CodHor": 6105,
+		"DiaSemana": "sexta",
+		"HoraInicial": "10:40",
+		"HoraFinal": "11:30"
+	}
+  ],
+  "listaDeDisciplinas": [
+  	{
+  		"CodColigada": 1,
+  		"CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647",
+  		"CodTurma": "SI-2023/2-0032",
+  		"CodDisc": "S001-1",
+  		"CodPeriodo": 1,
+  		"NumeroAulasPorSemana": 5
+  	},
+  	{
+  		"CodColigada": 1,
+  		"CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304",
+  		"CodTurma": "SI-2023/2-0032",
+  		"CodDisc": "S003-1",
+  		"CodPeriodo": 1,
+  		"NumeroAulasPorSemana": 5
+  	},
+  	{
+  		"CodColigada": 1,
+  		"CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293",
+  		"CodTurma": "SI-2023/2-0032",
+  		"CodDisc": "S006-1",
+  		"CodPeriodo": 1,
+  		"NumeroAulasPorSemana": 1
+  	},
+	{
+		"CodColigada": 1,
+		"CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982",
+		"CodTurma": "SI-2023/2-0032",
+		"CodDisc": "S002-1",
+		"CodPeriodo": 1,
+		"NumeroAulasPorSemana": 3
+	},
+	{
+		"CodColigada": 1,
+		"CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8",
+		"CodTurma": "SI-2023/2-0032",
+		"CodDisc": "S005-1",
+		"CodPeriodo": 1,
+		"NumeroAulasPorSemana": 4
+	},
+	{
+		"CodColigada": 1,
+		"CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB",
+		"CodTurma": "SI-2023/2-0032",
+		"CodDisc": "S004-1",
+		"CodPeriodo": 1,
+		"NumeroAulasPorSemana": 1
+	}		
+  ],
+  "listaDeProfessores":[
+	{
+		"CodColigada": 1,
+		"CodProf": "00041",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "segunda",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}
+		]
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "PS-0001",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "terça",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}
+		]		
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "Prof001",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "segunda",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			},
+			{
+				"DiaSemana": "terça",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}			
+		]	
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00040",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "quarta",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			},
+			{
+				"DiaSemana": "sexta",
+				"HoraInicial": "07:00",
+				"HoraFinal": "11:30"				
+			}			
+		]			
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00044",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "quinta",
+				"HoraInicial": "07:00",
+				"HoraFinal": "07:50"				
+			},
+			{
+				"DiaSemana": "sexta",
+				"HoraInicial": "07:00",
+				"HoraFinal": "07:50"				
+			}			
+		]			
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00045",
+		"listaDeDisponibilidades": [
+			{
+				"DiaSemana": "segunda",
+				"HoraInicial": "07:00",
+				"HoraFinal": "07:50"				
+			},
+			{
+				"DiaSemana": "terça",
+				"HoraInicial": "07:00",
+				"HoraFinal": "07:50"				
+			}			
+		]		
+	},
+	{
+		"CodColigada": 1,
+		"CodProf": "00042",
+		"listaDeDisponibilidades": []		
+	}
+	]
 }
