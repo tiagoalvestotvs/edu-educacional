@@ -334,8 +334,17 @@
 	{
 		"CodColigada": 1,
 		"CodProf": "00042",
-		"listaDeDisponibilidades": [],
-		"listaDeDisciplinasJaLecionadas": []				
+		"listaDeDisponibilidades":
+			{
+				"DiaSemana": "sexta",
+				"HoraInicial": "07:00",
+				"HoraFinal": "07:50"				
+			},		
+		"listaDeDisciplinasJaLecionadas": [
+			{
+				"CodDisc": "S004-1"
+			}
+		]
 	}
 	]
 }
