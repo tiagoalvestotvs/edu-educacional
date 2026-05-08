@@ -229,12 +229,25 @@
   "listaDeProfessores": [
     {
       "CodColigada": 1,
-      "CodProf": "00041",
+      "CodProf": "00067",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "E001-1"
+        },
+        {
+          "CodDisc": "S045-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00062",
       "listaDeDisponibilidades": [
         {
           "DiaSemana": "Segunda-Feira",
-          "HoraInicial": "08:40",
-          "HoraFinal": "14:00"
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
         },
         {
           "DiaSemana": "Terça-Feira",
@@ -244,31 +257,81 @@
       ],
       "listaDeDisciplinasJaLecionadas": [
         {
-          "CodDisc": "A002-1"
+          "CodDisc": "E001-2"
         },
         {
-          "CodDisc": "A003-1"
+          "CodDisc": "E002-3"
         },
         {
-          "CodDisc": "D003-1"
+          "CodDisc": "S008-1"
         },
         {
-          "CodDisc": "S001-1"
+          "CodDisc": "S011-1"
         },
         {
-          "CodDisc": "S003-1"
+          "CodDisc": "S017-1"
         },
         {
-          "CodDisc": "S013-1"
+          "CodDisc": "S022-1"
+        },
+        {
+          "CodDisc": "S029-1"
+        },
+        {
+          "CodDisc": "S031-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00054",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "D006-1"
+        },
+        {
+          "CodDisc": "E001-2"
+        },
+        {
+          "CodDisc": "E002-2"
         },
         {
           "CodDisc": "S019-1"
         },
         {
-          "CodDisc": "S034-1"
+          "CodDisc": "S045-1"
+        }
+      ]
+    },    
+    {
+      "CodColigada": 1,
+      "CodProf": "00048",
+      "listaDeDisponibilidades": [
+        {
+          "DiaSemana": "Segunda-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "13:00"
+        }
+      ],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "D007-1"
         },
         {
-          "CodDisc": "S044-1"
+          "CodDisc": "E001-4"
+        },
+        {
+          "CodDisc": "S008-1"
+        },
+        {
+          "CodDisc": "S009-1"
+        },
+        {
+          "CodDisc": "S012-1"
+        },
+        {
+          "CodDisc": "S043-1"
         }
       ]
     }
