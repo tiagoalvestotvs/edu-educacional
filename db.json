@@ -1,345 +1,871 @@
 {
   "listaDeHorarios": [
-	{
-		"CodColigada": 1,
-		"CodHor": 2101,
-		"DiaSemana": "segunda",
-		"HoraInicial": "07:00",
-		"HoraFinal": "07:50"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 2102,
-		"DiaSemana": "segunda",
-		"HoraInicial": "07:50",
-		"HoraFinal": "08:40"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 2103,
-		"DiaSemana": "segunda",
-		"HoraInicial": "08:40",
-		"HoraFinal": "09:30"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 2104,
-		"DiaSemana": "segunda",
-		"HoraInicial": "09:50",
-		"HoraFinal": "10:40"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 2105,
-		"DiaSemana": "segunda",
-		"HoraInicial": "10:40",
-		"HoraFinal": "11:30"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 3101,
-		"DiaSemana": "terça",
-		"HoraInicial": "07:00",
-		"HoraFinal": "07:50"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 3102,
-		"DiaSemana": "terça",
-		"HoraInicial": "07:50",
-		"HoraFinal": "08:40"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 3103,
-		"DiaSemana": "terça",
-		"HoraInicial": "08:40",
-		"HoraFinal": "09:30"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 3104,
-		"DiaSemana": "terça",
-		"HoraInicial": "09:50",
-		"HoraFinal": "10:40"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 3105,
-		"DiaSemana": "terça",
-		"HoraInicial": "10:40",
-		"HoraFinal": "11:30"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 4101,
-		"DiaSemana": "quarta",
-		"HoraInicial": "07:00",
-		"HoraFinal": "07:50"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 4102,
-		"DiaSemana": "quarta",
-		"HoraInicial": "07:50",
-		"HoraFinal": "08:40"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 4103,
-		"DiaSemana": "quarta",
-		"HoraInicial": "08:40",
-		"HoraFinal": "09:30"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 4104,
-		"DiaSemana": "quarta",
-		"HoraInicial": "09:50",
-		"HoraFinal": "10:40"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 4105,
-		"DiaSemana": "quarta",
-		"HoraInicial": "10:40",
-		"HoraFinal": "11:30"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 5101,
-		"DiaSemana": "quinta",
-		"HoraInicial": "07:00",
-		"HoraFinal": "07:50"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 5102,
-		"DiaSemana": "quinta",
-		"HoraInicial": "07:50",
-		"HoraFinal": "08:40"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 5103,
-		"DiaSemana": "quinta",
-		"HoraInicial": "08:40",
-		"HoraFinal": "09:30"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 5104,
-		"DiaSemana": "quinta",
-		"HoraInicial": "09:50",
-		"HoraFinal": "10:40"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 5105,
-		"DiaSemana": "quinta",
-		"HoraInicial": "10:40",
-		"HoraFinal": "11:30"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 6101,
-		"DiaSemana": "sexta",
-		"HoraInicial": "07:00",
-		"HoraFinal": "07:50"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 6102,
-		"DiaSemana": "sexta",
-		"HoraInicial": "07:50",
-		"HoraFinal": "08:40"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 6103,
-		"DiaSemana": "sexta",
-		"HoraInicial": "08:40",
-		"HoraFinal": "09:30"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 6104,
-		"DiaSemana": "sexta",
-		"HoraInicial": "09:50",
-		"HoraFinal": "10:40"
-	},
-	{
-		"CodColigada": 1,
-		"CodHor": 6105,
-		"DiaSemana": "sexta",
-		"HoraInicial": "10:40",
-		"HoraFinal": "11:30"
-	}
+    {
+      "CodColigada": 1,
+      "CodHor": 2101,
+      "DiaSemana": "Segunda-Feira",
+      "HoraInicial": "07:00",
+      "HoraFinal": "07:50"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 2102,
+      "DiaSemana": "Segunda-Feira",
+      "HoraInicial": "07:50",
+      "HoraFinal": "08:40"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 2103,
+      "DiaSemana": "Segunda-Feira",
+      "HoraInicial": "08:40",
+      "HoraFinal": "09:30"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 2104,
+      "DiaSemana": "Segunda-Feira",
+      "HoraInicial": "09:50",
+      "HoraFinal": "10:40"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 2105,
+      "DiaSemana": "Segunda-Feira",
+      "HoraInicial": "10:40",
+      "HoraFinal": "11:30"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 3101,
+      "DiaSemana": "Terça-Feira",
+      "HoraInicial": "07:00",
+      "HoraFinal": "07:50"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 3102,
+      "DiaSemana": "Terça-Feira",
+      "HoraInicial": "07:50",
+      "HoraFinal": "08:40"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 3103,
+      "DiaSemana": "Terça-Feira",
+      "HoraInicial": "08:40",
+      "HoraFinal": "09:30"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 3104,
+      "DiaSemana": "Terça-Feira",
+      "HoraInicial": "09:50",
+      "HoraFinal": "10:40"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 3105,
+      "DiaSemana": "Terça-Feira",
+      "HoraInicial": "10:40",
+      "HoraFinal": "11:30"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 4101,
+      "DiaSemana": "Quarta-Feira",
+      "HoraInicial": "07:00",
+      "HoraFinal": "07:50"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 4102,
+      "DiaSemana": "Quarta-Feira",
+      "HoraInicial": "07:50",
+      "HoraFinal": "08:40"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 4103,
+      "DiaSemana": "Quarta-Feira",
+      "HoraInicial": "08:40",
+      "HoraFinal": "09:30"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 4104,
+      "DiaSemana": "Quarta-Feira",
+      "HoraInicial": "09:50",
+      "HoraFinal": "10:40"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 4105,
+      "DiaSemana": "Quarta-Feira",
+      "HoraInicial": "10:40",
+      "HoraFinal": "11:30"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 5101,
+      "DiaSemana": "Quinta-Feira",
+      "HoraInicial": "07:00",
+      "HoraFinal": "07:50"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 5102,
+      "DiaSemana": "Quinta-Feira",
+      "HoraInicial": "07:50",
+      "HoraFinal": "08:40"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 5103,
+      "DiaSemana": "Quinta-Feira",
+      "HoraInicial": "08:40",
+      "HoraFinal": "09:30"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 5104,
+      "DiaSemana": "Quinta-Feira",
+      "HoraInicial": "09:50",
+      "HoraFinal": "10:40"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 5105,
+      "DiaSemana": "Quinta-Feira",
+      "HoraInicial": "10:40",
+      "HoraFinal": "11:30"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 6101,
+      "DiaSemana": "Sexta-Feira",
+      "HoraInicial": "07:00",
+      "HoraFinal": "07:50"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 6102,
+      "DiaSemana": "Sexta-Feira",
+      "HoraInicial": "07:50",
+      "HoraFinal": "08:40"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 6103,
+      "DiaSemana": "Sexta-Feira",
+      "HoraInicial": "08:40",
+      "HoraFinal": "09:30"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 6104,
+      "DiaSemana": "Sexta-Feira",
+      "HoraInicial": "09:50",
+      "HoraFinal": "10:40"
+    },
+    {
+      "CodColigada": 1,
+      "CodHor": 6105,
+      "DiaSemana": "Sexta-Feira",
+      "HoraInicial": "10:40",
+      "HoraFinal": "11:30"
+    }
   ],
   "listaDeDisciplinas": [
-  	{
-  		"CodColigada": 1,
-  		"CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647",
-  		"CodTurma": "SI-2023/2-0032",
-  		"CodDisc": "S001-1",
-  		"CodPeriodo": 1,
-  		"NumeroAulasPorSemana": 5
-  	},
-  	{
-  		"CodColigada": 1,
-  		"CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304",
-  		"CodTurma": "SI-2023/2-0032",
-  		"CodDisc": "S003-1",
-  		"CodPeriodo": 1,
-  		"NumeroAulasPorSemana": 5
-  	},
-  	{
-  		"CodColigada": 1,
-  		"CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293",
-  		"CodTurma": "SI-2023/2-0032",
-  		"CodDisc": "S006-1",
-  		"CodPeriodo": 1,
-  		"NumeroAulasPorSemana": 3
-  	},
-	{
-		"CodColigada": 1,
-		"CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982",
-		"CodTurma": "SI-2023/2-0032",
-		"CodDisc": "S002-1",
-		"CodPeriodo": 1,
-		"NumeroAulasPorSemana": 3
-	},
-	{
-		"CodColigada": 1,
-		"CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8",
-		"CodTurma": "SI-2023/2-0032",
-		"CodDisc": "S005-1",
-		"CodPeriodo": 1,
-		"NumeroAulasPorSemana": 4
-	},
-	{
-		"CodColigada": 1,
-		"CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB",
-		"CodTurma": "SI-2023/2-0032",
-		"CodDisc": "S004-1",
-		"CodPeriodo": 1,
-		"NumeroAulasPorSemana": 2
-	}		
+    {
+      "CodColigada": 1,
+      "CodPoTurma": "0FBE0125-3B06-4BDE-8FFE-2BE7FE2CF49D",
+      "CodTurma": "27-27\u0000\u0000.M.1.2024/2_L",
+      "CodDisc": "E001-3",
+      "CodPeriodo": 1,
+      "NumeroAulasPorSemana": 5
+    },
+    {
+      "CodColigada": 1,
+      "CodPoTurma": "D68CB07B-5342-4A23-ABCF-B06F00D4DC28",
+      "CodTurma": "27-27\u0000\u0000.M.1.2024/2_L",
+      "CodDisc": "E001-4",
+      "CodPeriodo": 1,
+      "NumeroAulasPorSemana": 3
+    },
+    {
+      "CodColigada": 1,
+      "CodPoTurma": "37ED06CB-0FA3-4FCD-8038-E73046ECDBD6",
+      "CodTurma": "27-27\u0000\u0000.M.1.2024/2_L",
+      "CodDisc": "E001-1",
+      "CodPeriodo": 1,
+      "NumeroAulasPorSemana": 5
+    },
+    {
+      "CodColigada": 1,
+      "CodPoTurma": "1633DA17-BD0C-46FD-BC49-16942B142EFB",
+      "CodTurma": "27-27\u0000\u0000.M.1.2024/2_L",
+      "CodDisc": "E001-5",
+      "CodPeriodo": 1,
+      "NumeroAulasPorSemana": 5
+    },
+    {
+      "CodColigada": 1,
+      "CodPoTurma": "D4AAC5BB-7BCE-457C-AE68-ADC2A0F216EB",
+      "CodTurma": "27-27\u0000\u0000.M.1.2024/2_L",
+      "CodDisc": "E001-6",
+      "CodPeriodo": 1,
+      "NumeroAulasPorSemana": 2
+    },
+    {
+      "CodColigada": 1,
+      "CodPoTurma": "9CBD022C-FB79-4CCD-9C7B-A79072B0757C",
+      "CodTurma": "27-27\u0000\u0000.M.1.2024/2_L",
+      "CodDisc": "E001-2",
+      "CodPeriodo": 1,
+      "NumeroAulasPorSemana": 5
+    }
   ],
-  "listaDeProfessores":[
-	{
-		"CodColigada": 1,
-		"CodProf": "00041",
-		"listaDeDisponibilidades": [
-			{
-				"DiaSemana": "terça",
-				"HoraInicial": "07:00",
-				"HoraFinal": "11:30"				
-			}
-		],
-		"listaDeDisciplinasJaLecionadas": [
-			{
-				"CodDisc": "S001-1"
-			}
-		]
-	},
-	{
-		"CodColigada": 1,
-		"CodProf": "PS-0001",
-		"listaDeDisponibilidades": [
-			{
-				"DiaSemana": "terça",
-				"HoraInicial": "07:00",
-				"HoraFinal": "11:30"				
-			}
-		],
-		"listaDeDisciplinasJaLecionadas": [
-		]				
-	},
-	{
-		"CodColigada": 1,
-		"CodProf": "Prof001",
-		"listaDeDisponibilidades": [
-			{
-				"DiaSemana": "segunda",
-				"HoraInicial": "07:00",
-				"HoraFinal": "11:30"				
-			},
-			{
-				"DiaSemana": "terça",
-				"HoraInicial": "07:00",
-				"HoraFinal": "11:30"				
-			}			
-		],
-		"listaDeDisciplinasJaLecionadas": [
-		]			
-	},
-	{
-		"CodColigada": 1,
-		"CodProf": "00040",
-		"listaDeDisponibilidades": [
-			{
-				"DiaSemana": "quarta",
-				"HoraInicial": "07:00",
-				"HoraFinal": "11:30"				
-			},
-			{
-				"DiaSemana": "sexta",
-				"HoraInicial": "07:00",
-				"HoraFinal": "11:30"				
-			}			
-		],
-		"listaDeDisciplinasJaLecionadas": [
-			{
-				"CodDisc": "S003-1"
-			}			
-		]					
-	},
-	{
-		"CodColigada": 1,
-		"CodProf": "00044",
-		"listaDeDisponibilidades": [
-			{
-				"DiaSemana": "quinta",
-				"HoraInicial": "07:00",
-				"HoraFinal": "07:50"				
-			},
-			{
-				"DiaSemana": "sexta",
-				"HoraInicial": "07:00",
-				"HoraFinal": "07:50"				
-			}			
-		],
-		"listaDeDisciplinasJaLecionadas": [
-		]					
-	},
-	{
-		"CodColigada": 1,
-		"CodProf": "00045",
-		"listaDeDisponibilidades": [
-			{
-				"DiaSemana": "segunda",
-				"HoraInicial": "07:00",
-				"HoraFinal": "07:50"				
-			},
-			{
-				"DiaSemana": "terça",
-				"HoraInicial": "07:00",
-				"HoraFinal": "07:50"				
-			}			
-		],
-		"listaDeDisciplinasJaLecionadas": [
-		]			
-	},
-	{
-		"CodColigada": 1,
-		"CodProf": "00042",
-		"listaDeDisponibilidades": [],
-		"listaDeDisciplinasJaLecionadas": [
-			{
-				"CodDisc": "S004-1"
-			}
-		]
-	}
-	]
+  "listaDeProfessores": [
+    {
+      "CodColigada": 1,
+      "CodProf": "00041",
+      "listaDeDisponibilidades": [
+        {
+          "DiaSemana": "Segunda-Feira",
+          "HoraInicial": "08:40",
+          "HoraFinal": "14:00"
+        },
+        {
+          "DiaSemana": "Terça-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        }
+      ],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "A002-1"
+        },
+        {
+          "CodDisc": "A003-1"
+        },
+        {
+          "CodDisc": "D003-1"
+        },
+        {
+          "CodDisc": "S001-1"
+        },
+        {
+          "CodDisc": "S003-1"
+        },
+        {
+          "CodDisc": "S013-1"
+        },
+        {
+          "CodDisc": "S019-1"
+        },
+        {
+          "CodDisc": "S034-1"
+        },
+        {
+          "CodDisc": "S044-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00051",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "D036-1"
+        },
+        {
+          "CodDisc": "S018-1"
+        },
+        {
+          "CodDisc": "S020-1"
+        },
+        {
+          "CodDisc": "S027-1"
+        },
+        {
+          "CodDisc": "S034-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00055",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": []
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "PS-0001",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S001-1"
+        },
+        {
+          "CodDisc": "S002-1"
+        },
+        {
+          "CodDisc": "S003-1"
+        },
+        {
+          "CodDisc": "S004-1"
+        },
+        {
+          "CodDisc": "S005-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00043",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "A004-1"
+        },
+        {
+          "CodDisc": "A004-2-1"
+        },
+        {
+          "CodDisc": "S002-1"
+        },
+        {
+          "CodDisc": "S003-1"
+        },
+        {
+          "CodDisc": "S009-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00034",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S037-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "TESTE999",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S003-1"
+        },
+        {
+          "CodDisc": "S004-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00060",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S004-1"
+        },
+        {
+          "CodDisc": "S034-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00056",
+      "listaDeDisponibilidades": [
+        {
+          "DiaSemana": "Segunda-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        }
+      ],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S005-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00047",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S031-1"
+        },
+        {
+          "CodDisc": "S044-1"
+        },
+        {
+          "CodDisc": "S045-1"
+        },
+        {
+          "CodDisc": "S061-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00052",
+      "listaDeDisponibilidades": [
+        {
+          "DiaSemana": "Terça-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "13:00"
+        },
+        {
+          "DiaSemana": "Quarta-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "13:00"
+        },
+        {
+          "DiaSemana": "Sexta-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "13:00"
+        }
+      ],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S045-1"
+        },
+        {
+          "CodDisc": "S061-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00067",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "E001-1"
+        },
+        {
+          "CodDisc": "S045-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00062",
+      "listaDeDisponibilidades": [
+        {
+          "DiaSemana": "Segunda-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        },
+        {
+          "DiaSemana": "Terça-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        }
+      ],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "E001-2"
+        },
+        {
+          "CodDisc": "E002-3"
+        },
+        {
+          "CodDisc": "S008-1"
+        },
+        {
+          "CodDisc": "S011-1"
+        },
+        {
+          "CodDisc": "S017-1"
+        },
+        {
+          "CodDisc": "S022-1"
+        },
+        {
+          "CodDisc": "S029-1"
+        },
+        {
+          "CodDisc": "S031-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00061",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": []
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00058",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S015-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00053",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S045-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00050",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S002-1"
+        },
+        {
+          "CodDisc": "S010-1"
+        },
+        {
+          "CodDisc": "S013-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00049",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S006-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00044",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "A121-1"
+        },
+        {
+          "CodDisc": "A141-2-1"
+        },
+        {
+          "CodDisc": "D005-1"
+        },
+        {
+          "CodDisc": "S004-1"
+        },
+        {
+          "CodDisc": "S005-1"
+        },
+        {
+          "CodDisc": "S012-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00063",
+      "listaDeDisponibilidades": [
+        {
+          "DiaSemana": "Quarta-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        },
+        {
+          "DiaSemana": "Quinta-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        },
+        {
+          "DiaSemana": "Sexta-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        }
+      ],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S025-1"
+        },
+        {
+          "CodDisc": "S044-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "A#-000700",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S002-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00071",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": []
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00057",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "T003"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00046",
+      "listaDeDisponibilidades": [
+        {
+          "DiaSemana": "Domingo",
+          "HoraInicial": "10:00",
+          "HoraFinal": "23:00"
+        },
+        {
+          "DiaSemana": "Segunda-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        },
+        {
+          "DiaSemana": "Terça-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        },
+        {
+          "DiaSemana": "Quinta-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        },
+        {
+          "DiaSemana": "Sexta-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        },
+        {
+          "DiaSemana": "Sábado",
+          "HoraInicial": "07:00",
+          "HoraFinal": "12:00"
+        }
+      ],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "D004-1"
+        },
+        {
+          "CodDisc": "D005-1"
+        },
+        {
+          "CodDisc": "D006-1"
+        },
+        {
+          "CodDisc": "D011-1"
+        },
+        {
+          "CodDisc": "D108-1"
+        },
+        {
+          "CodDisc": "S002-1"
+        },
+        {
+          "CodDisc": "S004-1"
+        },
+        {
+          "CodDisc": "S005-1"
+        },
+        {
+          "CodDisc": "S006-1"
+        },
+        {
+          "CodDisc": "S009-1"
+        },
+        {
+          "CodDisc": "S016-1"
+        },
+        {
+          "CodDisc": "S017-1"
+        },
+        {
+          "CodDisc": "S021-1"
+        },
+        {
+          "CodDisc": "S028-1"
+        },
+        {
+          "CodDisc": "S039-1"
+        },
+        {
+          "CodDisc": "S041-1"
+        },
+        {
+          "CodDisc": "S042-1"
+        },
+        {
+          "CodDisc": "S043-1"
+        },
+        {
+          "CodDisc": "S044-1"
+        },
+        {
+          "CodDisc": "S045-1"
+        },
+        {
+          "CodDisc": "S061-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00070",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "S002-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00054",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "D006-1"
+        },
+        {
+          "CodDisc": "E001-2"
+        },
+        {
+          "CodDisc": "E002-2"
+        },
+        {
+          "CodDisc": "S019-1"
+        },
+        {
+          "CodDisc": "S045-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00045",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "A141-1"
+        },
+        {
+          "CodDisc": "D001-1"
+        },
+        {
+          "CodDisc": "D006-1"
+        },
+        {
+          "CodDisc": "S001-1"
+        },
+        {
+          "CodDisc": "S004-1"
+        },
+        {
+          "CodDisc": "S005-1"
+        },
+        {
+          "CodDisc": "S011-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00048",
+      "listaDeDisponibilidades": [
+        {
+          "DiaSemana": "Segunda-Feira",
+          "HoraInicial": "07:00",
+          "HoraFinal": "13:00"
+        }
+      ],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "D007-1"
+        },
+        {
+          "CodDisc": "E001-4"
+        },
+        {
+          "CodDisc": "S008-1"
+        },
+        {
+          "CodDisc": "S009-1"
+        },
+        {
+          "CodDisc": "S012-1"
+        },
+        {
+          "CodDisc": "S043-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00059",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "D003-1"
+        },
+        {
+          "CodDisc": "S009-1"
+        },
+        {
+          "CodDisc": "S024-1"
+        },
+        {
+          "CodDisc": "S026-1"
+        },
+        {
+          "CodDisc": "S035-1"
+        }
+      ]
+    },
+    {
+      "CodColigada": 1,
+      "CodProf": "00042",
+      "listaDeDisponibilidades": [],
+      "listaDeDisciplinasJaLecionadas": [
+        {
+          "CodDisc": "A002-2-1"
+        },
+        {
+          "CodDisc": "D002-1"
+        },
+        {
+          "CodDisc": "D007-1"
+        },
+        {
+          "CodDisc": "S006-1"
+        },
+        {
+          "CodDisc": "S010-1"
+        }
+      ]
+    }
+  ]
 }
