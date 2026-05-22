@@ -1,7 +1,7 @@
 {
-  "Alocacao": [
+  "AlocacoesSugeridas": [
     {
-      "NumeroAlocacao": 1,
+      "AlocacaoSugerida": 1,
       "Detalhes": {
         "ListaAlocacaoDeTurmasDisciplinas": [
           { "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 2101 },
@@ -53,7 +53,7 @@
       }
     },
     {
-      "NumeroAlocacao": 2,
+      "AlocacaoSugerida": 2,
       "Detalhes": {
         "ListaAlocacaoDeTurmasDisciplinas": [
           { "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 2101 },
