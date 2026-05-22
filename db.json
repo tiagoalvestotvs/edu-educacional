@@ -1,415 +1,103 @@
 {
-  "listaDeHorarios": [
+  "Alocacao": [
     {
-      "CodColigada": 1,
-      "CodHor": 2101,
-      "DiaSemana": "Segunda-Feira",
-      "HoraInicial": "07:00",
-      "HoraFinal": "07:50"
+      "NumeroAlocacao": 1,
+      "Detalhes": {
+        "ListaAlocacaoDeTurmasDisciplinas": [
+          { "CodColigada": 1, "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 2101 },
+          { "CodColigada": 1, "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 2102 },
+          { "CodColigada": 1, "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 2103 },
+          { "CodColigada": 1, "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 2104 },
+          { "CodColigada": 1, "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 3101 },
+          { "CodColigada": 1, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodHor": 3102 },
+          { "CodColigada": 1, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodHor": 3103 },
+          { "CodColigada": 1, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodHor": 3104 },
+          { "CodColigada": 1, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodHor": 3105 },
+          { "CodColigada": 1, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodHor": 4101 },
+          { "CodColigada": 1, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodHor": 4102 },
+          { "CodColigada": 1, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodHor": 4103 },
+          { "CodColigada": 1, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodHor": 4104 },
+          { "CodColigada": 1, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodHor": 4105 },
+          { "CodColigada": 1, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodHor": 5101 },
+          { "CodColigada": 1, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodHor": 5102 },
+          { "CodColigada": 1, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodHor": 5103 },
+          { "CodColigada": 1, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodHor": 5104 },
+          { "CodColigada": 1, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodHor": 5105 },
+          { "CodColigada": 1, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodHor": 6101 },
+          { "CodColigada": 1, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodHor": 6102 },
+          { "CodColigada": 1, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodHor": 6103 },
+          { "CodColigada": 1, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodHor": 6104 },
+          { "CodColigada": 1, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodHor": 6105 }
+        ],
+        "ListaAlocacaoProfessores": [
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodProf": "PS-0001", "CodHor": 3102 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodProf": "PS-0001", "CodHor": 3103 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodProf": "PS-0001", "CodHor": 3104 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodProf": "PS-0001", "CodHor": 3105 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodProf": "PS-0001", "CodHor": 4101 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodProf": "00042", "CodHor": 4102 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodProf": "00042", "CodHor": 4103 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodProf": "00042", "CodHor": 4104 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodProf": "00042", "CodHor": 4105 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodProf": "PS-0001", "CodHor": 5101 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodProf": "PS-0001", "CodHor": 5102 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodProf": "PS-0001", "CodHor": 5103 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodProf": "PS-0001", "CodHor": 5104 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodProf": "PS-0001", "CodHor": 5105 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodProf": "PS-0001", "CodHor": 6101 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodProf": "PS-0001", "CodHor": 6102 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodProf": "PS-0001", "CodHor": 6103 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodProf": "PS-0001", "CodHor": 6104 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodProf": "PS-0001", "CodHor": 6105 }
+        ]
+      }
     },
     {
-      "CodColigada": 1,
-      "CodHor": 2102,
-      "DiaSemana": "Segunda-Feira",
-      "HoraInicial": "07:50",
-      "HoraFinal": "08:40"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 2103,
-      "DiaSemana": "Segunda-Feira",
-      "HoraInicial": "08:40",
-      "HoraFinal": "09:30"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 2104,
-      "DiaSemana": "Segunda-Feira",
-      "HoraInicial": "09:50",
-      "HoraFinal": "10:40"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 2105,
-      "DiaSemana": "Segunda-Feira",
-      "HoraInicial": "10:40",
-      "HoraFinal": "11:30"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 3101,
-      "DiaSemana": "Terça-Feira",
-      "HoraInicial": "07:00",
-      "HoraFinal": "07:50"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 3102,
-      "DiaSemana": "Terça-Feira",
-      "HoraInicial": "07:50",
-      "HoraFinal": "08:40"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 3103,
-      "DiaSemana": "Terça-Feira",
-      "HoraInicial": "08:40",
-      "HoraFinal": "09:30"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 3104,
-      "DiaSemana": "Terça-Feira",
-      "HoraInicial": "09:50",
-      "HoraFinal": "10:40"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 3105,
-      "DiaSemana": "Terça-Feira",
-      "HoraInicial": "10:40",
-      "HoraFinal": "11:30"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 4101,
-      "DiaSemana": "Quarta-Feira",
-      "HoraInicial": "07:00",
-      "HoraFinal": "07:50"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 4102,
-      "DiaSemana": "Quarta-Feira",
-      "HoraInicial": "07:50",
-      "HoraFinal": "08:40"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 4103,
-      "DiaSemana": "Quarta-Feira",
-      "HoraInicial": "08:40",
-      "HoraFinal": "09:30"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 4104,
-      "DiaSemana": "Quarta-Feira",
-      "HoraInicial": "09:50",
-      "HoraFinal": "10:40"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 4105,
-      "DiaSemana": "Quarta-Feira",
-      "HoraInicial": "10:40",
-      "HoraFinal": "11:30"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 5101,
-      "DiaSemana": "Quinta-Feira",
-      "HoraInicial": "07:00",
-      "HoraFinal": "07:50"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 5102,
-      "DiaSemana": "Quinta-Feira",
-      "HoraInicial": "07:50",
-      "HoraFinal": "08:40"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 5103,
-      "DiaSemana": "Quinta-Feira",
-      "HoraInicial": "08:40",
-      "HoraFinal": "09:30"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 5104,
-      "DiaSemana": "Quinta-Feira",
-      "HoraInicial": "09:50",
-      "HoraFinal": "10:40"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 5105,
-      "DiaSemana": "Quinta-Feira",
-      "HoraInicial": "10:40",
-      "HoraFinal": "11:30"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 6101,
-      "DiaSemana": "Sexta-Feira",
-      "HoraInicial": "07:00",
-      "HoraFinal": "07:50"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 6102,
-      "DiaSemana": "Sexta-Feira",
-      "HoraInicial": "07:50",
-      "HoraFinal": "08:40"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 6103,
-      "DiaSemana": "Sexta-Feira",
-      "HoraInicial": "08:40",
-      "HoraFinal": "09:30"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 6104,
-      "DiaSemana": "Sexta-Feira",
-      "HoraInicial": "09:50",
-      "HoraFinal": "10:40"
-    },
-    {
-      "CodColigada": 1,
-      "CodHor": 6105,
-      "DiaSemana": "Sexta-Feira",
-      "HoraInicial": "10:40",
-      "HoraFinal": "11:30"
-    }
-  ],
-  "listaDeDisciplinas": [
-    {
-      "CodColigada": 1,
-      "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647",
-      "CodTurma": "SI-2023/2-0032",
-      "CodDisc": "S001-1",
-      "CodPeriodo": 1,
-      "NumeroAulasPorSemana": 5
-    },
-    {
-      "CodColigada": 1,
-      "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304",
-      "CodTurma": "SI-2023/2-0032",
-      "CodDisc": "S003-1",
-      "CodPeriodo": 1,
-      "NumeroAulasPorSemana": 5
-    },
-    {
-      "CodColigada": 1,
-      "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293",
-      "CodTurma": "SI-2023/2-0032",
-      "CodDisc": "S006-1",
-      "CodPeriodo": 1,
-      "NumeroAulasPorSemana": 4
-    },
-    {
-      "CodColigada": 1,
-      "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982",
-      "CodTurma": "SI-2023/2-0032",
-      "CodDisc": "S002-1",
-      "CodPeriodo": 1,
-      "NumeroAulasPorSemana": 3
-    },
-    {
-      "CodColigada": 1,
-      "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8",
-      "CodTurma": "SI-2023/2-0032",
-      "CodDisc": "S005-1",
-      "CodPeriodo": 1,
-      "NumeroAulasPorSemana": 4
-    },
-    {
-      "CodColigada": 1,
-      "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB",
-      "CodTurma": "SI-2023/2-0032",
-      "CodDisc": "S004-1",
-      "CodPeriodo": 1,
-      "NumeroAulasPorSemana": 3
-    }
-  ],
-  "listaDeProfessores": [
-    {
-      "CodColigada": 1,
-      "CodProf": "00041",
-      "listaDeDisponibilidades": [
-        {
-          "DiaSemana": "Segunda-Feira",
-          "HoraInicial": "07:00",
-          "HoraFinal": "13:00"
-        }
-      ],
-      "listaDeDisciplinasJaLecionadas": [
-        {
-          "CodDisc": "ENGCOMP002-1"
-        },
-        {
-          "CodDisc": "S003-1"
-        },
-        {
-          "CodDisc": "S001-1"
-        },
-        {
-          "CodDisc": "A003-1"
-        },
-        {
-          "CodDisc": "A002-1"
-        },
-        {
-          "CodDisc": "S013-1"
-        },
-        {
-          "CodDisc": "D003-1"
-        },
-        {
-          "CodDisc": "S019-1"
-        }
-      ]
-    },
-    {
-      "CodColigada": 1,
-      "CodProf": "PS-0001",
-      "listaDeDisponibilidades": [],
-      "listaDeDisciplinasJaLecionadas": [
-        {
-          "CodDisc": "S002-1"
-        },
-        {
-          "CodDisc": "S001-1"
-        },
-        {
-          "CodDisc": "S003-1"
-        },
-        {
-          "CodDisc": "S004-1"
-        },
-        {
-          "CodDisc": "S005-1"
-        }
-      ]
-    },
-    {
-      "CodColigada": 1,
-      "CodProf": "Prof001",
-      "listaDeDisponibilidades": [],
-      "listaDeDisciplinasJaLecionadas": [
-        {
-          "CodDisc": "S001-1"
-        }
-      ]
-    },
-    {
-      "CodColigada": 1,
-      "CodProf": "00040",
-      "listaDeDisponibilidades": [],
-      "listaDeDisciplinasJaLecionadas": [
-        {
-          "CodDisc": "D004-1"
-        },
-        {
-          "CodDisc": "S001-1"
-        },
-        {
-          "CodDisc": "S008-1"
-        },
-        {
-          "CodDisc": "S018-1"
-        },
-        {
-          "CodDisc": "A049-1"
-        },
-        {
-          "CodDisc": "A049-2-1"
-        },
-        {
-          "CodDisc": "S003-1"
-        }
-      ]
-    },
-    {
-      "CodColigada": 1,
-      "CodProf": "00044",
-      "listaDeDisponibilidades": [
-        {
-          "DiaSemana": "Terça-Feira",
-          "HoraInicial": "07:00",
-          "HoraFinal": "11:30"
-        }
-      ],
-      "listaDeDisciplinasJaLecionadas": [
-        {
-          "CodDisc": "A121-1"
-        },
-        {
-          "CodDisc": "S004-1"
-        },
-        {
-          "CodDisc": "S017-1"
-        },
-        {
-          "CodDisc": "D005-1"
-        },
-        {
-          "CodDisc": "A005-1"
-        },
-        {
-          "CodDisc": "A141-2-1"
-        },
-        {
-          "CodDisc": "S005-1"
-        },
-        {
-          "CodDisc": "S012-1"
-        }
-      ]
-    },
-    {
-      "CodColigada": 1,
-      "CodProf": "00045",
-      "listaDeDisponibilidades": [],
-      "listaDeDisciplinasJaLecionadas": [
-        {
-          "CodDisc": "A141-1"
-        },
-        {
-          "CodDisc": "S011-1"
-        },
-        {
-          "CodDisc": "S004-1"
-        },
-        {
-          "CodDisc": "S015-1"
-        },
-        {
-          "CodDisc": "D001-1"
-        },
-        {
-          "CodDisc": "S005-1"
-        },
-        {
-          "CodDisc": "D006-1"
-        }
-      ]
-    },
-    {
-      "CodColigada": 1,
-      "CodProf": "00042",
-      "listaDeDisponibilidades": [],
-      "listaDeDisciplinasJaLecionadas": [
-        {
-          "CodDisc": "S006-1"
-        },
-        {
-          "CodDisc": "A002-2-1"
-        },
-        {
-          "CodDisc": "D002-1"
-        },
-        {
-          "CodDisc": "D007-1"
-        },
-        {
-          "CodDisc": "S010-1"
-        }
-      ]
+      "NumeroAlocacao": 2,
+      "Detalhes": {
+        "ListaAlocacaoDeTurmasDisciplinas": [
+          { "CodColigada": 1, "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 2101 },
+          { "CodColigada": 1, "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 2102 },
+          { "CodColigada": 1, "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 2103 },
+          { "CodColigada": 1, "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 3103 },
+          { "CodColigada": 1, "CodPoTurma": "1D0179F3-F11B-4055-AD6E-FB457CAA7647", "CodHor": 6103 },
+          { "CodColigada": 1, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodHor": 2105 },
+          { "CodColigada": 1, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodHor": 3105 },
+          { "CodColigada": 1, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodHor": 4103 },
+          { "CodColigada": 1, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodHor": 5101 },
+          { "CodColigada": 1, "CodPoTurma": "27474361-0715-4E11-9F67-F6F017862304", "CodHor": 6102 },
+          { "CodColigada": 1, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodHor": 3102 },
+          { "CodColigada": 1, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodHor": 4102 },
+          { "CodColigada": 1, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodHor": 5103 },
+          { "CodColigada": 1, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodHor": 6104 },
+          { "CodColigada": 1, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodHor": 5104 },
+          { "CodColigada": 1, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodHor": 5105 },
+          { "CodColigada": 1, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodHor": 6105 },
+          { "CodColigada": 1, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodHor": 2104 },
+          { "CodColigada": 1, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodHor": 3101 },
+          { "CodColigada": 1, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodHor": 5102 },
+          { "CodColigada": 1, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodHor": 6101 },
+          { "CodColigada": 1, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodHor": 3104 },
+          { "CodColigada": 1, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodHor": 4101 },
+          { "CodColigada": 1, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodHor": 4105 }
+        ],
+        "ListaAlocacaoProfessores": [
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodProf": "00042", "CodHor": 3102 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodProf": "00042", "CodHor": 4102 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodProf": "00042", "CodHor": 5103 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "169BB8E6-BC2D-4EB7-A11B-260C19F3E293", "CodProf": "00042", "CodHor": 6104 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodProf": "PS-0001", "CodHor": 5104 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodProf": "PS-0001", "CodHor": 5105 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "689C17C6-20E6-419C-92CF-58A87A1B3982", "CodProf": "PS-0001", "CodHor": 6105 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodProf": "PS-0001", "CodHor": 2104 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodProf": "PS-0001", "CodHor": 3101 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodProf": "PS-0001", "CodHor": 5102 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "B4C2E2FC-4BEC-4C6E-B6D5-00180FC1E4A8", "CodProf": "PS-0001", "CodHor": 6101 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodProf": "PS-0001", "CodHor": 3104 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodProf": "PS-0001", "CodHor": 4101 },
+          { "CodColigada": 1, "IdPoHorarioProfessor": null, "CodPoTurma": "A0900FF6-47CB-47FE-9B6F-46D4D5EB46AB", "CodProf": "PS-0001", "CodHor": 4105 }
+        ]
+      }
     }
   ]
 }
